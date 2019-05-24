@@ -1,0 +1,31 @@
+.info-hide-short {
+	animation: hide .5s ease-in-out 1 both;
+}
+
+@keyframes hide {
+	from {
+	opacity: 1;
+	}
+	to {
+	opacity: 0;
+	}
+}
+
+.disintegration-container {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+/* position canvas' and set their transitions */
+.disintegration-container canvas {
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 1;
+	transition: transform 1s, opacity 1s;
+}
+
+.info-container {
+	position: relative;
+}

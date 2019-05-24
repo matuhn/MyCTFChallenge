@@ -1,0 +1,145 @@
+html {
+	background-color: #f0f4f6;
+}
+
+/*
+* Nav
+*/
+.nav {
+	color: #999999;
+	padding: 10px;
+	height: 56px;
+	line-height: 36px;
+}
+
+.nav a {
+	color: #626262;
+	margin-right: 10px;
+}
+
+.nav a:hover {
+	color: #999999;
+}
+
+.bg-nav {
+	background-color: #333333;
+}
+
+.bg-header {
+	background-color: #f0f4f6;
+}
+/*
+* Header
+*/
+.header {
+	padding: 30px 0px 30px 0px;
+	margin-bottom: 20px;
+}
+
+.header h1 {
+	color: #3b424e;
+	font-weight: 500;
+}
+
+.header h2 {
+	color: #8c8c8c;
+}
+
+/*
+* Search
+*/
+.search {
+	background-color: #ffffff;
+	padding: 30px 0px 20px 0px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.search-info {
+	color: #209cee;
+}
+
+.content {
+	margin-top: 20px;
+	margin-bottom: 50px;
+	padding: 20px;
+	background-color: #ffffff;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.content .is-st {
+	font-weight: 500;
+}
+
+.content ul li {
+	list-style-type: none;
+}
+
+.content li {
+	margin-bottom: 10px;
+}
+
+.fa-green {
+	color: #23CF5F;
+}
+
+.whois-data {
+	padding: 20px;
+}
+
+.whois-sidebar .banner {
+	margin-bottom: 10px;
+}
+
+.copyrights {
+	margin-top: 40px;
+	font-size: 14px;
+	color: #999999;
+}
+
+.hide {
+	display: none;
+}
+
+#pole {
+	margin-left: 10px;
+}
+
+.add_right_padding{
+	padding-right: 30px;
+}
+
+#waiting_icon{
+	margin-top: 6px;
+	margin-left: 6px;
+}
+
+.error{
+	color: #D8000C;
+	background-color: #FFBABA;
+	margin: 10px 0;
+	padding: 12px;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	vertical-align: baseline;
+}
+
+.error > i{
+	margin-right: 10px;
+}
+
+.whois_row{
+	border-bottom: 1px solid #ddd;
+}
+
+.inner_row{
+	margin-bottom: 5px;
+}
+
+.content table td, .content table th{
+	padding: 5px 10px;
+}

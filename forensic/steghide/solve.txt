@@ -1,0 +1,1 @@
+steghide extract -sf khoavjp123.jpg -xf khoavjp1234.txt
