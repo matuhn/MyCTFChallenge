@@ -15,17 +15,17 @@ My CTF Challenge in FUCTF Season 1
 git clone https://github.com/matuhn/MyCTFChallenge.git
 ```
 
-?? To play challenge, go to its directory:
+😎 To play challenge, go to its directory:
 ```css
 cd MyCTFChallenge/<challenge-name>
 ```
 
-?? Then (challenge setup in docker-style, so it won't harm your system):
+🤘 Then (challenge setup in docker-style, so it won't harm your system):
 ```css
 bash chall_config.sh 
 ```
 
-Wait a bit, access challenge via `ip:port` ?? 
+Wait a bit, access challenge via `ip:port`  🏁
 
 
 <br>
