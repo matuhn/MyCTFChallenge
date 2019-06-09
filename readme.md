@@ -38,7 +38,7 @@ Wait a bit, access challenge via `ip:port`  🏁
 | Baby Warmup			  | This is the first time you try? Check this out 			                              | 8005 | [Link](#)    |
 | Only Dr.Strange can do this     | The Best IQ Testing page ever was released !!! Come and join us !!!                               | 8003 | [Link](#)    |
 | Old School			  | This service has a difference with the challenge on rootme				              | 8002 | [Link](#)    |
-| Bet B?ng			  | I love doge, but I can't win the bet or break the system. Can you help me?			      | 8004 | [Link](#)    |
+| Bet Bủng			  | I love doge, but I can't win the bet or break the system. Can you help me?			      | 8004 | [Link](#)    |
 
 
 
