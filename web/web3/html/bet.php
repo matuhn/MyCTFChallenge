@@ -20,8 +20,7 @@ class khoadeptrai
 $result ="";
 if (isset($_POST['ticket']) && isset($_SESSION['money']) && ($_SESSION['money']>=1000))
 {
-  	$obj = unserialize(@openssl_decrypt($_POST['ticket'], "AES-128-CBC", "kh04d3ptr4i12345"));
-	//$obj = unserialize(base64_decode($_POST['ticket']));
+  	$obj = unserialize(base64_decode($_POST['ticket']));
   if($obj)
   {
     $obj->jackpot = rand(0,9).''.rand(0,9);
@@ -34,22 +33,22 @@ if (isset($_POST['ticket']) && isset($_SESSION['money']) && ($_SESSION['money']>
     }
     if ($valid == 1){
       if ($obj->enter === $obj->jackpot){
-    	 $result += 'Hey, hey, hey you win '.($obj->value);
+    	 $result .= 'Hey, hey, hey you win '.($obj->value);
     	 $_SESSION['money'] += (int)($obj->value);
       }
       else{
-    	 $result += 'You guess '.$obj->enter.', sorry it is '.$obj->jackpot;
+    	 $result .= 'You guess '.$obj->enter.', sorry it is '.$obj->jackpot;
     	 $_SESSION['money'] -= (int)($obj->value);
       }
     }
     else {
-      $result +='You need a valid OTP like to confirm when you wan\'t to all in what you have';
+      $result .='You need a valid OTP to confirm when you want to bet all in what you have';
     }
 
   }
   else
   {
-    $result +='How you think you can hack me? ';
+    $result .='How you think you can hack me? ';
   }
 }
   elseif ($_SESSION['money']<1000) {

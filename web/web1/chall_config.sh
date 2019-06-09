@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Setup Blind RCE"
+echo "Setup PingPong"
 docker-compose up -d

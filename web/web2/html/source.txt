@@ -1,0 +1,7 @@
+if (isset ($_GET['number'])) {
+    if ($_GET['number'] == $_SESSION['number'])
+        die ('Flag: '.$flag);
+    else
+        $result .='<p>Wrong guess.</p></br>'.$_SESSION['number'];
+}
+$_SESSION['number'] = (rand(1,999)^rand(1,999)+rand(1,999))/rand(1,999);

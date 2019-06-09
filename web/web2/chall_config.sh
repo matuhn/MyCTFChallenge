@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Setup Drill Version2"
+echo "Setup Dr.Strange"
 docker-compose up -d

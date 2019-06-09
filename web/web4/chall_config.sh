@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Setup LFI"
+echo "Setup BabyWarmup"
 docker-compose up -d

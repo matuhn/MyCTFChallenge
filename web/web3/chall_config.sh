@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Setup PHP Serialize type juggling"
+echo "Setup DogeStore"
 docker-compose up -d

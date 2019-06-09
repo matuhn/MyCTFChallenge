@@ -30,8 +30,7 @@ if (isset($_POST['ticket']) && !empty($_POST['ticket']))
   	$temp->enter=$_POST['ticket'];
   	$temp->value=1000;
   	$code=serialize($temp);
-  	$code=@openssl_encrypt($code, "AES-128-CBC", "kh04d3ptr4i12345");
-  	//$code=base64_encode($code);
+  	$code=base64_encode($code);
   	$result='Use this ticket\'s code for betting: <strong>'.$code.'</strong>';
 }
 ?>

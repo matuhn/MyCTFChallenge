@@ -31,12 +31,12 @@
 					break;
 				}
 				case 1999:{
-					echo "<script>alert('Try more harder, btw I don\'t like AES-128-CBC too much!')</script>";
+					echo "<script>alert('Nothing here again hehe!')</script>";
 					$_SESSION['money'] -= $choice;
 					break;
 				}
 				case 1998:{
-					echo "<script>alert('Hey! You know how to bruteforce, it will help on next step! my \"secret-key\" in ticket is kh04d3ptr4i12345')</script>";
+					echo "<script>alert('Nothing here')</script>";
 					$_SESSION['money'] -= $choice;
 					break;
 				}
