@@ -8,6 +8,7 @@ My CTF Challenge in FUCTF Season 1
 
 * docker
 * docker-compose
+* Install manual or use setup.sh
 
 ## Installation
 
