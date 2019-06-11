@@ -37,7 +37,8 @@ Wait a bit, access challenge via `ip:port`  🏁
 | Name       			  | Description                                                                                       | Port | WriteUp |
 |---------------------------------|---------------------------------------------------------------------------------------------------|------|---------|
 | Baby Warmup			  | This is the first time you try? Check this out 			                              | 8005 | [Link](#)    |
-| Only Dr.Strange can do this     | The Best IQ Testing page ever was released !!! Come and join us !!!                               | 8003 | [Link](#)    |
+| Only Dr.Strange can do this     | Can you guess 14,000,605 future to win Thanos? 
+                               | 8003 | [Link](#)    |
 | Old School			  | This service has a difference with the challenge on rootme				              | 8002 | [Link](#)    |
 | Bet Bủng			  | I love doge, but I can't win the bet or break the system. Can you help me?			      | 8004 | [Link](#)    |
 
@@ -46,8 +47,8 @@ Wait a bit, access challenge via `ip:port`  🏁
 
 | Name       			  | Description                                                                                       | Port | WriteUp |
 |---------------------------------|---------------------------------------------------------------------------------------------------|------|---------|
-| LSB-steganography			  | This is the first time you try? Check this out 			                              |   | [Link](#)    |
-| music     | The Best IQ Testing page ever was released !!! Come and join us !!!                               |   | [Link](#)    |
+| voLeeSongnghiBeautiful		  | This girl beautiful right? 			                              |   | [Link](#)    |
+| dendakhongduong     | I love her voice https://www.youtube.com/playlist?list=PL785bg0wIBfCL1SeiYndlqQv1FgBeQE9M                           |   | [Link](#)    |
 
 ## Contact
 Any problems please contact me via email: <anhkhoafto@gmail.com>
