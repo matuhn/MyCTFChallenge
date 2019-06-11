@@ -44,5 +44,10 @@ Wait a bit, access challenge via `ip:port`  🏁
 
 <h1> Forensic </h1>
 
+| Name       			  | Description                                                                                       | Port | WriteUp |
+|---------------------------------|---------------------------------------------------------------------------------------------------|------|---------|
+| LSB-steganography			  | This is the first time you try? Check this out 			                              |   | [Link](#)    |
+| music     | The Best IQ Testing page ever was released !!! Come and join us !!!                               |   | [Link](#)    |
+
 ## Contact
 Any problems please contact me via email: <anhkhoafto@gmail.com>
