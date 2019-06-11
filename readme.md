@@ -37,8 +37,7 @@ Wait a bit, access challenge via `ip:port`  🏁
 | Name       			  | Description                                                                                       | Port | WriteUp |
 |---------------------------------|---------------------------------------------------------------------------------------------------|------|---------|
 | Baby Warmup			  | This is the first time you try? Check this out 			                              | 8005 | [Link](#)    |
-| Only Dr.Strange can do this     | Can you guess 14,000,605 future to win Thanos? 
-                               | 8003 | [Link](#)    |
+| Only Dr.Strange can do this     | Can you guess 14,000,605 future to win Thanos? | 8003 | [Link](#)    |
 | Old School			  | This service has a difference with the challenge on rootme				              | 8002 | [Link](#)    |
 | Bet Bủng			  | I love doge, but I can't win the bet or break the system. Can you help me?			      | 8004 | [Link](#)    |
 
