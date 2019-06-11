@@ -1,0 +1,3 @@
+       Team            |					Writeup
+FUHCM_ch0jvjkj3nthUc   |	https://gist.github.com/luuductoan/b3e6068686627b4f32021cd835761eb2
+FUHN_ChoDongXuan       |	https://th0ws.wordpress.com/2019/06/10/fuctf-season-1-write-up/
