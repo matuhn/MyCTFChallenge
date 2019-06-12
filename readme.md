@@ -38,9 +38,9 @@ Wait a bit, access challenge via `ip:port`  🏁
 | Name       			  | Description                                                                                       | Port | WriteUp |
 |---------------------------------|---------------------------------------------------------------------------------------------------|------|---------|
 | Baby Warmup			  | This is the first time you try? Check this out 			                              | 8005 | [Link](https://raw.githubusercontent.com/matuhn/MyCTFChallenge/master/Web/Baby%20Warmup/writeup.txt)    |
-| Only Dr.Strange can do this     | Can you guess 14,000,605 future to win Thanos? | 8003 | [Link](#)    |
-| Old School			  | This service has a difference with the challenge on rootme				              | 8002 | [Link](#)    |
-| Bet Bủng			  | I love doge, but I can't win the bet or break the system. Can you help me?			      | 8004 | [Link](#)    |
+| Only Dr.Strange can do this     | Can you guess 14,000,605 future to win Thanos? | 8003 | [Link](https://raw.githubusercontent.com/matuhn/MyCTFChallenge/master/Web/Only%20Dr.Strange%20can%20do%20this/writeup.txt)    |
+| Old School			  | This service has a difference with the challenge on rootme				              | 8002 | [Link](https://raw.githubusercontent.com/matuhn/MyCTFChallenge/master/Web/Old%20School/writeup.txt)    |
+| Bet Bủng			  | I love doge, but I can't win the bet or break the system. Can you help me?			      | 8004 | [Link](https://raw.githubusercontent.com/matuhn/MyCTFChallenge/master/Web/Bet%20B%E1%BB%A7ng/writeup.txt)    |
 
 
 <h1> Forensic </h1>
