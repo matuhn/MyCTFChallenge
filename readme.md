@@ -1,4 +1,4 @@
-My CTF Challenge in FUCTF Season 1
+My CTF Challenge in FUCTF Season 1, FPT Uni Secathon Season 2
 
 <p align="center">
   <img src="https://i.imgur.com/6zqTqj9.png" height="20%" width="20%">
